@@ -1,5 +1,5 @@
 
-   /*     
+   /*     vb v
    $newLocation = "?p=SendMail";
     header("Location: $newLocation", true, 301);
 $AddName=htmlspecialchars($_POST['Name']);
