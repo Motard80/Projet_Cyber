@@ -23,4 +23,4 @@ if (file_exists($pages[$p])) {
 }
 
 $content = ob_get_clean();
-require '../src/view/template/default.php';
+require '../src/view/template/default.php'; 
